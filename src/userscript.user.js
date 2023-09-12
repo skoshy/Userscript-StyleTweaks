@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Style Tweaks
 // @namespace    https://skoshy.com
-// @version      0.6.0
+// @version      0.6.1
 // @description  Some style tweaks for various sites
 // @author       SK
 // @match        https://www.washingtonpost.com/*
