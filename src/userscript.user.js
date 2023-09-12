@@ -9,6 +9,7 @@
 // @match        https://keep.google.com/*
 // @match        https://docs.google.com/*
 // @icon         https://i.imgur.com/FNMIdAP.png
+// @downloadURL  https://github.com/skoshy/Userscript-StyleTweaks/raw/main/src/userscript.user.js
 // @updateURL    https://github.com/skoshy/Userscript-StyleTweaks/raw/main/src/userscript.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
